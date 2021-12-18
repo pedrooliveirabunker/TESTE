@@ -14,6 +14,8 @@ public class Utilizador{
         Password = password;
     }
 
+
+    // TESte
     public String getId() {
         return id;
     }
